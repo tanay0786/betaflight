@@ -43,4 +43,4 @@ end
 # "make all"       Start working, building all targets for example.
 # "exit"           when done
 # vagrant halt     to stop your VM
-# vagrant --help   for more....
+# vagrant --help   for more.
